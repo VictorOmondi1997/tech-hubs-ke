@@ -1,5 +1,2 @@
-<style type="text/css" rel="stylesheet">
-* { color: red; }
-</style>
 
-<h1>Technological Hubs in Kenya</h1>
+<h1 style="font-size:34">Technological Hubs in Kenya</h1>
